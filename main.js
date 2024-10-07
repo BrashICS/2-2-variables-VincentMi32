@@ -10,6 +10,6 @@
 
 
 // Some example variables
-let it_is_christmas = false
-let teaching_partner = "Mr. Squirrel"
-let number_of_students = 27
+let x =1500
+let y = 3000
+let area = x * y
